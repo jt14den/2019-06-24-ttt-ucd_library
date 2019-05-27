@@ -49,9 +49,6 @@ locations:
 </iframe>
 {% endif %}
 
-<h2 id = "register"> Register</h2> 
-<p> <a href="https://lirgroup.heanet.ie/index.php/2019/03/04/liber-lc-instructortraining2019/">https://lirgroup.heanet.ie/index.php/2019/03/04/liber-lc-instructortraining2019/</a></p>
-
 <h2 id="general">General Information</h2>
 
 <!--
@@ -92,6 +89,8 @@ locations:
   updated
  <a href="{{ site.training_site }}">curriculum</a>.
 </p>
+<h3 id = "register"> Register</h3> 
+<p> <a href="https://lirgroup.heanet.ie/index.php/2019/03/04/liber-lc-instructortraining2019/">https://lirgroup.heanet.ie/index.php/2019/03/04/liber-lc-instructortraining2019/</a></p>
 
 <!--
   LOCATION
