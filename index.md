@@ -10,7 +10,7 @@ enddate: 2019--625        # machine-readable end date for the workshop in YYYY-M
 instructor: ["Juliane Schneider", "Tim Dennis"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Prof. Konrad Förstner", "David Kane"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["juliane.schneider@gmail.com", "timdennis@ucla.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-etherpad:             # optional: URL for the workshop Etherpad if there is one
+etherpad:  https://pad.carpentries.org/ttt-ucd-library            # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
 
@@ -48,6 +48,9 @@ locations:
   scrolling="auto">
 </iframe>
 {% endif %}
+
+<h2 id = "register"> Register</h2> 
+<p> <a href="https://lirgroup.heanet.ie/index.php/2019/03/04/liber-lc-instructortraining2019/">https://lirgroup.heanet.ie/index.php/2019/03/04/liber-lc-instructortraining2019/</a></p>
 
 <h2 id="general">General Information</h2>
 
