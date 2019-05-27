@@ -13,8 +13,6 @@ contact: ["juliane.schneider@gmail.com", "timdennis@ucla.edu"]    # boxed, comma
 etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
-  - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
 
   - venue: "James Joyce Library"
     address: "University College Dublin, Belfield, Dublin 4, Ireland"
